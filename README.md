@@ -8,4 +8,4 @@ Requirements
 
 Files are saved in the DATA_DIR in main.py. 
 
-Separate models for RGB and CYM for each sunject
+Separate models for RGB and CYM for each subject.
